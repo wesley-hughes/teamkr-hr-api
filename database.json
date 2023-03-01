@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Googly Moogly",
+      "email": "googly@moogly.com"
+    }
+  ],
+  "itineraries": []
+}
