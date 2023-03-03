@@ -4,7 +4,55 @@
       "id": 1,
       "name": "Googly Moogly",
       "email": "googly@moogly.com"
+    },
+    {
+      "email": "ash@west.com",
+      "name": "Ash West",
+      "id": 2
     }
   ],
-  "itineraries": []
+  "itineraries": [
+    {
+      "parkId": "A21F01BC-9E47-4DBE-8655-A1651FC2C1B1",
+      "bizId": "22",
+      "eateryId": "30",
+      "userId": "",
+      "id": 1
+    },
+    {
+      "parkId": "6278FE68-139E-4758-A6DE-9A0437F777B5",
+      "bizId": "44",
+      "eateryId": "45",
+      "userId": "",
+      "id": 2
+    },
+    {
+      "parkId": "7FF37F14-88C8-469E-A447-ACE6D9AF44D2",
+      "bizId": 10,
+      "eateryId": 17,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "parkId": "41BAB8ED-C95F-447D-9DA1-FCC4E4D808B2",
+      "bizId": 2,
+      "eateryId": 32,
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "parkId": "EE1F4878-00FB-4760-A77F-EA76DB8DEFD9",
+      "bizId": 22,
+      "eateryId": 52,
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "parkId": "CD54150B-24F6-4B96-8D6F-B23AF92A70F2",
+      "bizId": 37,
+      "eateryId": 18,
+      "userId": 2,
+      "id": 6
+    }
+  ]
 }
