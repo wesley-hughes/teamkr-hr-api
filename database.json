@@ -4,7 +4,62 @@
       "id": 1,
       "name": "Googly Moogly",
       "email": "googly@moogly.com"
+    },
+    {
+      "email": "wesley@hughes.com",
+      "name": "Wesley Hughes",
+      "id": 2
     }
   ],
-  "itineraries": []
+  "itineraries": [
+    {
+      "parkId": "C08AD828-98FF-478E-A63C-614E7534274B",
+      "bizId": 13,
+      "eateryId": 19,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "parkId": "CD54150B-24F6-4B96-8D6F-B23AF92A70F2",
+      "bizId": 34,
+      "eateryId": 46,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "parkId": "34CB30BA-8A5F-4563-AA34-6633708DD9DC",
+      "bizId": 23,
+      "eateryId": 18,
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "parkId": "9F7919AF-7B0B-4FDB-98B7-9D0FB3B9E4F1",
+      "bizId": 34,
+      "eateryId": 33,
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "parkId": "BDBD573F-97EF-44E7-A579-471679F2C42A",
+      "bizId": 47,
+      "eateryId": 45,
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "parkId": "D43C7439-5C0B-4F4F-9D5B-65080F13AD28",
+      "bizId": 14,
+      "eateryId": 25,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "parkId": "89730CB2-BB7D-400B-AF35-5F95A574D97D",
+      "bizId": 44,
+      "eateryId": 46,
+      "userId": 2,
+      "id": 10
+    }
+  ]
 }
